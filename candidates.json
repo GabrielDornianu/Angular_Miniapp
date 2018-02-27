@@ -1,5 +1,127 @@
 {
-	"candidates": [
-		
-	]
+  "candidates": [
+    {
+      "name": "adwadwad",
+      "skills": "qweqwe, 01230123",
+      "id": 1
+    },
+    {
+      "name": "adwadwad",
+      "skills": "qweqwe, 01230123",
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "name": "awdawd",
+      "skills": "awdawd",
+      "id": 4
+    },
+    {
+      "name": "adawd",
+      "skills": "awdawd",
+      "id": 5
+    },
+    {
+      "name": "adawd",
+      "skills": [
+        "awdawd",
+        "3123123"
+      ],
+      "id": 6
+    },
+    {
+      "name": "awdawd",
+      "skills": "qwewq",
+      "id": 7
+    },
+    {
+      "name": "awdawd",
+      "skills": "qweqwe",
+      "id": 8
+    },
+    {
+      "name": "awdawdawdawd",
+      "skills": "xzczxczc",
+      "id": 9
+    },
+    {
+      "name": "awdawd",
+      "skills": "qewqew",
+      "id": 10
+    },
+    {
+      "name": "awdawd",
+      "skills": "qweqweqwe",
+      "id": 11
+    },
+    {
+      "name": "qweqwe",
+      "skills": "qweqewqeqwe",
+      "id": 12
+    },
+    {
+      "name": "qweqwe",
+      "skills": "qweqewqeqwe",
+      "id": 13
+    },
+    {
+      "name": "qweqwe",
+      "skills": "qweqewqeqwe",
+      "id": 14
+    },
+    {
+      "name": "qweqwe",
+      "skills": "zxczcxzxc",
+      "id": 15
+    },
+    {
+      "name": "qweqwe",
+      "skills": [
+        "zxczcxzxc",
+        "dicke",
+        "balls"
+      ],
+      "id": 16
+    },
+    {
+      "name": "awd",
+      "skills": "test",
+      "id": 17
+    },
+    {
+      "name": "qweqwe",
+      "skills": "adw",
+      "id": 18
+    },
+    {
+      "name": "cacamaca",
+      "skills": "awdawd",
+      "id": 19
+    },
+    {
+      "name": "adwawd",
+      "skills": "qweqweqwe",
+      "id": 20
+    },
+    {
+      "name": "awdad",
+      "skills": [
+        "qweqwew",
+        "dawdawd"
+      ],
+      "id": 21
+    },
+    {
+      "name": "awdawdad",
+      "skills": "qweqeqeweqw",
+      "id": 22
+    },
+    {
+      "name": "awdawd",
+      "skills": "qweqwe",
+      "id": 23
+    }
+  ]
 }
