@@ -1,19 +1,27 @@
 {
   "candidates": [
     {
-      "name": "dabi",
-      "skills": "dabby",
-      "id": 87
+      "name": "russu",
+      "skills": "russou",
+      "id": 9
     },
     {
-      "name": "qewqweqew",
-      "skills": "qweqweqweqwe",
-      "id": 88
+      "name": "Gabriel",
+      "skills": [
+        "Javascript",
+        "Html"
+      ],
+      "id": 12
     },
     {
-      "name": "rrrrrrrrrr",
-      "skills": "rrrrrrrrrrrrrrrrrrr",
-      "id": 93
+      "name": "Matei",
+      "skills": "Matei",
+      "id": 14
+    },
+    {
+      "name": "Matei",
+      "skills": "Matei",
+      "id": 15
     }
   ]
 }
