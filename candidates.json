@@ -1,27 +1,12 @@
 {
   "candidates": [
     {
-      "name": "russu",
-      "skills": "russou",
-      "id": 9
-    },
-    {
       "name": "Gabriel",
       "skills": [
-        "Javascript",
-        "Html"
+        "Php",
+        "Javascript"
       ],
-      "id": 12
-    },
-    {
-      "name": "Matei",
-      "skills": "Matei",
-      "id": 14
-    },
-    {
-      "name": "Matei",
-      "skills": "Matei",
-      "id": 15
+      "id": 16
     }
   ]
 }
